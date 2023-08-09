@@ -45,7 +45,6 @@ body {
     align-items: center;
     justify-content: space-between;
     text-align: center;
-    gap: 82px;
 }
 
 .apresentacao__conteudo {
@@ -89,7 +88,7 @@ body {
     justify-content: center;
     gap: 16px;
     color: var(--cor-terciaria);
-    width: 50%;
+    width: 90%;
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600px;
@@ -117,7 +116,7 @@ body {
     font-weight: 400px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 570px) {
     .cabecalho {
         padding: 10%;
     }
