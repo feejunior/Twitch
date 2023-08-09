@@ -45,6 +45,7 @@ body {
     align-items: center;
     justify-content: space-between;
     text-align: center;
+    gap: 82px;
 }
 
 .apresentacao__conteudo {
@@ -116,7 +117,7 @@ body {
     font-weight: 400px;
 }
 
-@media (max-width: 570px) {
+@media (max-width: 1200px) {
     .cabecalho {
         padding: 10%;
     }
